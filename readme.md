@@ -5,6 +5,6 @@
 
 $ npm i
 
-$ svgo -f ./svg  // svg 아이콘 패스 최적화, .svg는 폴더명
+$ svgo -f ./svg  // svg 패스 최적화
 
 $ npm run build  // 폰트화 시키기
